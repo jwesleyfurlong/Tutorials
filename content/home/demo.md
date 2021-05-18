@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
-subtitle:
+title: Data and Statistical Analysis Resources   
+subtitle: For the social sector
 
 design:
   columns: "1"
@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+I am the founder and managing director of Telos Analytics, a data and analytics firm for the social sector. My methodological research interests include using machine learning and causal inference methods for program evaluation, especially to identify heterogeneous treatment effects. My primary empirical area of focus is child welfare.  
 
 [Explore similar templates](https://wowchemy.com/templates/)
 
