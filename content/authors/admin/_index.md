@@ -12,6 +12,7 @@ education:
   - course: MTS Theological Studies
     institution: Emory University 
     year: 2004
+    
 email: ""
 highlight_name: false
 interests:
@@ -19,9 +20,8 @@ interests:
 - Causal Inference
 - Child Welfare
 - Machine learning 
-- Specific topics:
+- Specific topics- 
 - Relationship between automated machine learning and equity frameworks for program design and evaluation
-- Methods to strengthen practice-based evidence 
 - Methods to identify conditional average treatment effects in non-profit program evaluation 
 
 organizations:
