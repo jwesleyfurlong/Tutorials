@@ -13,3 +13,7 @@ https://happygitwithr.com/rmd-test-drive.html
 6: rstudioapi::navigateToFile("config.yaml", line = 3)
 7: blogdown::config_netlify() & hugo()
 
+Process for commiting to git:
+
+Make changes > select 'Git' > check 'staged' > Commit > Push
+If error for branch diverged: git fetch origin > git reset --hard origin/main 
