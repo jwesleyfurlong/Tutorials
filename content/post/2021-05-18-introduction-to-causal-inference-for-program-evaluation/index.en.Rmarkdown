@@ -17,9 +17,9 @@ image:
 projects: []
 ---
 
-**'Impact' is a causal (or treatment) effect**
+**'Impact' is a causal effect (or treatment effect)**
 
-What does it take to be able to say of a program, "Clients who successfully complete it have a 90% greater chance of achieving \_\_\_\_(target outcome)?"
+What does it take to be able to say of a program, "Clients who successfully complete it have a 90% greater chance of achieving \_\_\_\_(insert target outcome)?"
 
 The goal of this post is to describe some import concepts for the use of causal inference methods to evaluate social programs.
 
