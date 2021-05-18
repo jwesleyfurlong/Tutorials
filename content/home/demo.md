@@ -18,7 +18,7 @@ subtitle: Program evaluation resources for the social sector
 design:
   columns: "1"
   background:
-    image: luke-chesser-3rWagdKBF7U-unsplash.jpg
+    image: cesar-couto.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
