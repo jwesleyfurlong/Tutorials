@@ -49,4 +49,4 @@ I am the founder and managing director of Telos Analytics, a data and analytics 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Wesley_Furlong_CV.pdf" "newtab" >}}cv{{< /staticref >}}.
