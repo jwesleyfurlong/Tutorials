@@ -19,6 +19,8 @@ projects: []
 
 **'Impact' is a causal (or treatment) effect**
 
+What does it take to be able to say of a program, "Clients who successfully complete it have a 90% greater chance of achieving \_\_\_\_(target outcome)?"
+
 The goal of this post is to describe some import concepts for the use of causal inference methods to evaluate social programs.
 
 A program's 'impact' refers to its causal (or treatment) effect, which is the expected change in outcome due to the program (i.e., intervention, treatment) *when compared with a baseline condition.* This last phrase is important.
@@ -33,13 +35,11 @@ By itself, a pre-post test cannot yield a causal estimate because it does not an
 
 To answer causal questions, we need to know the difference for the child *with and without the treatment.* We need to distinguish two potential outcomes for the same person: when treated - when untreated.
 
-Of course, it's impossible to identify more than one outcome for a single person.
-
 > **Impact = factual- counterfactual**
 
 'What happened' - 'what would've happened without the intervention'
 
-Since counterfactuals aren't observable for specific individuals, we use a 'potential outcomes framework' to estimate causal effects on a program level.
+Of course, it's impossible to identify more than one outcome for a single person. Since counterfactuals aren't observable for specific individuals, we use a 'potential outcomes framework' to estimate causal effects on a program level.
 
 ![](counterfactual.png)
 
