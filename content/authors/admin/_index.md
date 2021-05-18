@@ -1,27 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My methodological research interests include using machine learning and causal inference methods for program evaluation, especially to identify heterogeneous treatment effects. My primary empirical area of focus is child welfare. 
+
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD candidate in Social Work
+    institution: Baylor University
+    year: Current
+  - course: MSW in Social Work with concentration in Biostatistics
+    institution: Temple University
+    year: 2018
+  - course: MTS Theological Studies
+    institution: Emory University 
+    year: 2004
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Program Evaluation
+- Causal Inference methods
+- Child Welfare
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Diana R. Garland School of Social Work at Baylor University
+  url: https://www.baylor.edu/social_work/
+  role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +31,22 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/WesFurlong
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jwesleyfurlong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/wesfurlong/
 superuser: true
-title: Nelson Bighetti
+title: Wesley Furlong
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wesley Furlong is the founder and managing director of Telos Analytics, a data and analytics firm for the social sector. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
