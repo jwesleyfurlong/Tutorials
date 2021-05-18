@@ -12,13 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Data and Statistical Analysis Resources   
-subtitle: For the social sector
+title:  
+subtitle: Program evaluation resources for the social sector
 
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: Finn.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
@@ -30,14 +30,5 @@ design:
 
 I am the founder and managing director of Telos Analytics, a data and analytics firm for the social sector. My methodological research interests include using machine learning and causal inference methods for program evaluation, especially to identify heterogeneous treatment effects. My primary empirical area of focus is child welfare.  
 
-[Explore similar templates](https://wowchemy.com/templates/)
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /callout %}}
