@@ -1,0 +1,66 @@
+﻿client_id,discharge_type,discharge_reason,successful_transition,discharge_date
+101,planned,reunification,yes,12/9/2021
+102,unplanned,higher level rec.,no,4/27/2020
+104,planned,reunification,yes,6/2/2020
+105,planned,adoption,yes,1/19/2020
+108,planned,adoption,yes,4/5/2020
+110,planned,kinship,yes,3/21/2020
+113,planned,adoption,yes,9/19/2020
+117,unplanned,higher level rec.,no,5/14/2020
+119,planned,reunification,yes,10/9/2020
+121,planned,reunification,yes,7/20/2020
+125,unplanned,higher level rec.,no,9/26/2020
+127,planned,adoption,yes,11/13/2020
+132,planned,adoption,yes,9/25/2020
+133,planned,adoption,yes,1/17/2021
+137,planned,reunification,yes,12/10/2020
+141,unplanned,higher level rec.,no,12/6/2020
+142,planned,adoption,yes,9/19/2020
+146,planned,kinship,yes,11/18/2020
+147,unplanned,dss request,yes,9/20/2019
+148,unplanned,dss request,yes,10/14/2019
+150,unplanned,dss request,yes,4/16/2021
+152,planned,adoption,yes,2/19/2021
+157,unplanned,runaway,no,12/13/2020
+158,planned,reunification,yes,2/6/2021
+162,unplanned,in-patient,no,3/10/2020
+165,unplanned,runaway,no,4/25/2020
+168,unplanned,dss request,no,11/10/2019
+169,unplanned,dss request,no,3/15/2020
+172,planned,kinship,yes,9/24/2020
+174,planned,kinship,yes,12/15/2020
+179,planned,dss request,yes,3/27/2020
+181,unplanned,dss request,yes,2/10/2020
+182,planned,reunification,yes,11/10/2020
+184,planned,kinship,yes,8/19/2020
+188,unplanned,runaway,no,2/1/2021
+194,unplanned,dss request,yes,2/10/2020
+202,planned,reunification,yes,7/12/2020
+206,planned,adoption,yes,3/12/2021
+207,planned,dss request,yes,4/23/2020
+213,planned,kinship,yes,4/12/2021
+222,planned,reunification,yes,5/7/2021
+226,planned,adoption,yes,4/27/2021
+238,planned,dss request,yes,8/22/2020
+239,planned,kinship,yes,3/9/2021
+240,unplanned,dss request,no,3/9/2020
+244,planned,dss request,yes,1/20/2021
+245,unplanned,dss request,no,7/12/2020
+251,planned,dss request,yes,7/16/2020
+255,planned,reunification,yes,2/9/2021
+263,planned,kinship,yes,4/14/2021
+264,unplanned,dss request,no,7/12/2020
+276,planned,dss request,yes,9/2/2020
+289,planned,dss request,yes,11/12/2020
+296,unplanned,dss request,yes,5/12/2020
+322,unplanned,dss request,yes,12/10/2020
+323,planned,reunification,yes,2/1/2021
+384,planned,dss request,yes,2/20/2020
+386,unplanned,dss request,no,8/10/2020
+440,unplanned,dss request,no,6/10/2020
+448,planned,adoption,yes,3/13/2021
+449,unplanned,dss request,yes,12/5/2020
+401,planned,dss request,yes,10/14/2019
+427,planned,dss request,yes,3/10/2020
+237,unplanned,in-patient,no,7/19/2020
+380,unplanned,in-patient,no,7/12/2020

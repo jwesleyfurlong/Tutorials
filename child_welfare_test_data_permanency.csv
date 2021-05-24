@@ -1,0 +1,428 @@
+﻿event_date,client_id,event_type,event_reason,program_type,toward_permanency,permanency_goal
+1/3/2019,101,admission,entry,foster,,reunification
+9/18/2020,101,transition,pre-adoptive ,foster,yes,adoption
+2/12/2019,102,admission,entry,foster,,reunification
+8/2/2020,102,transition,pre-adoptive ,foster,,adoption
+2/18/2019,103,admission,entry,residential,,reunification
+3/1/2019,104,admission,entry,foster,,adoption
+3/8/2019,105,admission,entry,foster,,reunification
+3/14/2019,106,admission,entry,foster,,adoption
+7/12/2019,106,transition,fp request,foster,no,adoption
+3/15/2019,107,admission,entry,residential,,adoption
+3/24/2019,108,admission,entry,foster,,adoption
+3/28/2019,109,admission,entry,ther. foster,,adoption
+6/10/2019,109,transition,pre-adoptive ,ther. foster,yes,adoption
+3/29/2019,110,admission,entry,foster,,reunification
+3/30/2019,111,admission,entry,residential,,reunification
+4/10/2019,112,admission,entry,foster,,adoption
+4/17/2019,113,admission,entry,foster,,reunification
+4/20/2019,114,admission,entry,foster,,reunification
+4/21/2019,115,admission,entry,residential,,adoption
+4/23/2019,116,admission,entry,foster,,adoption
+4/30/2019,117,admission,entry,foster,,adoption
+5/3/2019,118,admission,entry,foster,,adoption
+5/7/2019,119,admission,entry,foster,,adoption
+5/8/2019,120,admission,entry,residential,,reunification
+5/11/2019,121,admission,entry,foster,,reunification
+5/14/2019,122,admission,entry,ther. foster,,reunification
+5/18/2019,123,admission,entry,foster,,adoption
+10/12/2019,123,transition,fp request,foster,no,adoption
+2/10/2020,123,transition,fp request,foster,no,adoption
+6/13/2020,123,transition,fp request,residential,no,adoption
+5/19/2019,124,admission,entry,residential,,reunification
+5/24/2019,125,admission,entry,foster,,adoption
+5/25/2019,126,admission,entry,foster,,adoption
+5/30/2019,127,admission,entry,foster,,adoption
+6/1/2019,128,admission,entry,residential,,reunification
+6/3/2019,129,admission,entry,foster,,reunification
+6/6/2019,130,admission,entry,foster,,adoption
+6/7/2019,131,admission,entry,residential,,fc 18-21
+2/5/2020,131,transition,level higher,residential,no,fc 18-21
+6/7/2019,132,admission,entry,foster,,adoption
+6/8/2019,133,admission,entry,foster,,reunification
+6/8/2019,134,admission,entry,foster,,adoption
+6/17/2019,135,admission,entry,foster,,adoption
+6/21/2019,136,admission,entry,residential,,adoption
+6/23/2019,137,admission,entry,foster,,reunification
+6/24/2019,138,admission,entry,ther. foster,,adoption
+6/28/2019,139,admission,entry,foster,,guardianship
+4/21/2020,139,transition,pre-adoptive ,foster,yes,adoption
+6/30/2019,140,admission,entry,residential,,guardianship
+6/30/2019,141,admission,entry,foster,,reunification
+7/4/2019,142,admission,entry,foster,,adoption
+7/10/2019,143,admission,entry,foster,,adoption
+7/10/2019,144,admission,entry,ther. foster,,adoption
+7/11/2019,145,admission,entry,residential,,adoption
+7/14/2019,146,admission,entry,foster,,reunification
+7/15/2019,147,admission,entry,foster,,adoption
+9/20/2019,147,transition,dss request,foster,yes,adoption
+7/15/2019,148,admission,entry,foster,,adoption
+10/14/2019,148,transition,dss request,foster,yes,adoption
+7/17/2019,149,admission,entry,residential,,reunification
+7/22/2019,150,admission,entry,foster,,reunification
+10/14/2019,150,transition,dss request,foster,yes,reunification
+7/24/2019,151,admission,entry,ther. foster,,adoption
+7/28/2019,152,admission,entry,foster,,adoption
+8/2/2019,153,admission,entry,residential,,adoption
+8/4/2019,154,admission,entry,foster,,adoption
+12/20/2019,154,transition,fp request,foster,no,adoption
+8/6/2019,155,admission,entry,foster,,reunification
+8/7/2019,156,admission,entry,residential,,reunification
+8/7/2019,157,admission,entry,foster,,reunification
+8/11/2019,158,admission,entry,foster,,reunification
+8/11/2019,159,admission,entry,foster,,guardianship
+8/12/2019,160,admission,entry,foster,,adoption
+8/17/2019,161,admission,entry,residential,,reunification
+8/17/2019,162,admission,entry,foster,,reunification
+8/25/2019,163,admission,entry,foster,,adoption
+8/27/2019,164,admission,entry,ther. foster,,reunification
+8/31/2019,165,admission,entry,foster,,reunification
+9/1/2019,166,admission,entry,residential,,reunification
+9/3/2019,167,admission,entry,foster,,adoption
+9/5/2019,168,admission,entry,foster,,reunification
+11/10/2019,168,transition,dss request,foster,yes,reunification
+9/9/2019,169,admission,entry,foster,,adoption
+3/15/2020,169,transition,dss request,foster,yes,adoption
+9/12/2019,170,admission,entry,residential,,adoption
+9/17/2019,171,admission,entry,foster,,adoption
+9/18/2019,172,admission,entry,foster,,reunification
+9/23/2019,173,admission,entry,residential,,reunification
+9/23/2019,174,admission,entry,foster,,reunification
+9/28/2019,175,admission,entry,foster,,reunification
+9/28/2019,176,admission,entry,ther. foster,,reunification
+10/2/2019,177,admission,entry,foster,,reunification
+10/3/2019,178,admission,entry,residential,,adoption
+10/5/2019,179,admission,entry,foster,,adoption
+3/27/2020,179,transition,dss request,foster,yes,adoption
+10/11/2019,180,admission,entry,foster,,adoption
+10/14/2019,181,admission,entry,foster,,adoption
+2/10/2020,181,transition,dss request,foster,yes,adoption
+10/21/2019,182,admission,entry,foster,,reunification
+10/25/2019,183,admission,entry,foster,,reunification
+10/25/2019,184,admission,entry,foster,,reunification
+10/25/2019,185,admission,entry,residential,,reunification
+10/26/2019,186,admission,entry,foster,,reunification
+11/26/2019,186,transition,fp request,foster,no,reunification
+11/2/2019,187,admission,entry,residential,,adoption
+11/5/2019,188,admission,entry,foster,,adoption
+11/12/2019,189,admission,entry,foster,,adoption
+11/17/2019,190,admission,entry,foster,,adoption
+11/18/2019,191,admission,entry,residential,,reunification
+11/28/2019,192,admission,entry,foster,,reunification
+11/29/2019,193,admission,entry,foster,,adoption
+12/20/2019,193,transition,fp request,foster,no,adoption
+12/2/2019,194,admission,entry,foster,,reunification
+2/10/2020,194,transition,dss request,foster,yes,reunification
+12/3/2019,195,admission,entry,residential,,reunification
+12/9/2019,196,admission,entry,foster,,adoption
+12/28/2019,196,transition,fp request,foster,no,adoption
+12/10/2019,197,admission,entry,foster,,adoption
+12/17/2019,198,admission,entry,foster,,adoption
+12/18/2019,199,admission,entry,residential,,adoption
+12/20/2019,200,admission,entry,foster,,adoption
+12/23/2019,201,admission,entry,foster,,reunification
+12/25/2019,202,admission,entry,foster,,reunification
+12/29/2019,203,admission,entry,foster,,reunification
+4/18/2021,203,transition,pre-adoptive ,foster,yes,adoption
+1/2/2020,204,admission,entry,residential,,reunification
+1/4/2020,205,admission,entry,foster,,adoption
+1/5/2020,206,admission,entry,foster,,adoption
+1/6/2020,207,admission,entry,foster,,adoption
+4/23/2020,207,transition,dss request,foster,yes,adoption
+1/7/2020,208,admission,entry,residential,,adoption
+1/8/2020,209,admission,entry,foster,,reunification
+1/8/2020,210,admission,entry,foster,,reunification
+1/11/2020,211,admission,entry,residential,,reunification
+1/11/2020,212,admission,entry,foster,,reunification
+1/12/2020,213,admission,entry,foster,,reunification
+5/1/2020,213,transition,fp request,foster,no,reunification
+1/12/2020,214,admission,entry,foster,,reunification
+1/13/2020,215,admission,entry,foster,,adoption
+1/21/2020,216,admission,entry,residential,,adoption
+1/24/2020,217,admission,entry,foster,,adoption
+1/25/2020,218,admission,entry,foster,,reunification
+1/25/2020,219,admission,entry,foster,,adoption
+8/12/2020,219,transition,fp request,foster,no,adoption
+1/26/2020,220,admission,entry,residential,,reunification
+1/28/2020,221,admission,entry,foster,,reunification
+1/28/2020,222,admission,entry,foster,,reunification
+1/29/2020,223,admission,entry,foster,,adoption
+2/1/2020,224,admission,entry,foster,,adoption
+2/3/2020,225,admission,entry,residential,,adoption
+2/4/2020,226,admission,entry,foster,,adoption
+2/6/2020,227,admission,entry,foster,,reunification
+2/14/2020,228,admission,entry,foster,,reunification
+2/15/2020,229,admission,entry,residential,,reunification
+2/17/2020,230,admission,entry,foster,,reunification
+2/19/2020,231,admission,entry,foster,,reunification
+2/19/2020,232,admission,entry,foster,,reunification
+2/20/2020,233,admission,entry,residential,,adoption
+2/22/2020,234,admission,entry,foster,,adoption
+2/23/2020,235,admission,entry,foster,,adoption
+2/23/2020,236,admission,entry,ther. foster,,reunification
+2/28/2020,237,admission,entry,residential,,fc 18-21
+7/19/2020,237,transition,in-patient,residential,no,fc 18-21
+8/10/2020,237,transition,re-entry,residential,no,fc 18-21
+3/5/2020,238,admission,entry,foster,,reunification
+8/22/2020,238,transition,dss request,foster,yes,reunification
+3/8/2020,239,admission,entry,foster,,reunification
+3/9/2020,240,admission,entry,foster,,adoption
+3/1/2021,240,transition,dss request,foster,yes,adoption
+3/11/2020,241,admission,entry,foster,,adoption
+4/10/2021,241,transition,pre-adoptive ,foster,yes,adoption
+3/11/2020,242,admission,entry,foster,,adoption
+3/11/2020,243,admission,entry,residential,,adoption
+3/13/2020,244,admission,entry,foster,,adoption
+1/20/2021,244,transition,dss request,foster,yes,adoption
+3/14/2020,245,admission,entry,foster,,reunification
+7/12/2020,245,transition,dss request,foster,yes,reunification
+3/17/2020,246,admission,entry,residential,,reunification
+3/20/2020,247,admission,entry,foster,,adoption
+7/2/2020,247,transition,fp request,residential,no,adoption
+1/10/2021,247,transition,pre-adoptive ,foster,yes,adoption
+3/28/2020,248,admission,entry,ther. foster,,reunification
+3/29/2020,249,admission,entry,foster,,reunification
+3/30/2020,250,admission,entry,residential,,adoption
+4/1/2020,251,admission,entry,foster,,adoption
+7/16/2020,251,transition,dss request,foster,yes,adoption
+4/2/2020,252,admission,entry,foster,,adoption
+4/5/2020,253,admission,entry,residential,,adoption
+4/5/2020,254,admission,entry,foster,,reunification
+4/6/2020,255,admission,entry,foster,,reunification
+4/13/2020,256,admission,entry,foster,,reunification
+4/16/2020,257,admission,entry,foster,,reunification
+4/18/2020,258,admission,entry,residential,,reunification
+4/19/2020,259,admission,entry,foster,,adoption
+4/19/2020,260,admission,entry,ther. foster,,adoption
+4/22/2020,261,admission,entry,foster,,reunification
+4/27/2020,262,admission,entry,residential,,adoption
+5/3/2020,263,admission,entry,foster,,reunification
+5/5/2020,264,admission,entry,foster,,reunification
+7/12/2020,264,transition,dss request,foster,yes,reunification
+5/9/2020,265,admission,entry,foster,,reunification
+5/10/2020,266,admission,entry,foster,,reunification
+5/11/2020,267,admission,entry,residential,,reunification
+5/13/2020,268,admission,entry,foster,,reunification
+5/14/2020,269,admission,entry,foster,,adoption
+5/17/2020,270,admission,entry,foster,,adoption
+3/20/2021,270,transition,pre-adoptive ,foster,yes,adoption
+4/18/2021,270,transition,fp request,foster,no,adoption
+5/25/2020,271,admission,entry,residential,,reunification
+5/27/2020,272,admission,entry,foster,,reunification
+5/28/2020,273,admission,entry,foster,,reunification
+5/30/2020,274,admission,entry,ther. foster,,reunification
+5/31/2020,275,admission,entry,residential,,reunification
+6/3/2020,276,admission,entry,foster,,reunification
+9/2/2020,276,transition,dss request,foster,yes,reunification
+6/5/2020,277,admission,entry,foster,,adoption
+6/5/2020,278,admission,entry,foster,,adoption
+6/8/2020,279,admission,entry,residential,,adoption
+6/11/2020,280,admission,entry,foster,,adoption
+6/13/2020,281,admission,entry,foster,,adoption
+6/14/2020,282,admission,entry,foster,,reunification
+6/16/2020,283,admission,entry,residential,,reunification
+6/21/2020,284,admission,entry,foster,,reunification
+6/22/2020,285,admission,entry,foster,,adoption
+6/24/2020,286,admission,entry,foster,,adoption
+6/25/2020,287,admission,entry,foster,,reunification
+7/3/2020,288,admission,entry,residential,,adoption
+7/6/2020,289,admission,entry,foster,,adoption
+11/12/2020,289,transition,dss request,foster,yes,adoption
+7/8/2020,290,admission,entry,foster,,reunification
+7/11/2020,291,admission,entry,foster,,reunification
+7/12/2020,292,admission,entry,residential,,reunification
+7/14/2020,293,admission,entry,ther. foster,,reunification
+7/17/2020,294,admission,entry,foster,,reunification
+7/17/2020,295,admission,entry,foster,,adoption
+7/20/2020,296,admission,entry,foster,,adoption
+5/12/2020,296,transition,dss request,foster,yes,adoption
+7/20/2020,297,admission,entry,residential,,adoption
+7/23/2020,298,admission,entry,foster,,adoption
+7/25/2020,299,admission,entry,foster,,reunification
+7/26/2020,300,admission,entry,residential,,reunification
+7/28/2020,301,admission,entry,foster,,reunification
+8/3/2020,302,admission,entry,foster,,reunification
+8/3/2020,303,admission,entry,foster,,reunification
+8/6/2020,304,admission,entry,residential,,adoption
+8/14/2020,305,admission,entry,foster,,adoption
+8/18/2020,306,admission,entry,foster,,adoption
+8/19/2020,307,admission,entry,foster,,reunification
+8/25/2020,308,admission,entry,foster,,reunification
+8/28/2020,309,admission,entry,foster,,reunification
+8/28/2020,310,admission,entry,foster,,reunification
+8/28/2020,311,admission,entry,residential,,reunification
+8/31/2020,312,admission,entry,foster,,reunification
+9/3/2020,313,admission,entry,foster,,reunification
+9/3/2020,314,admission,entry,residential,,reunification
+9/5/2020,315,admission,entry,foster,,reunification
+9/14/2020,316,admission,entry,residential,,adoption
+9/14/2020,317,admission,entry,foster,,reunification
+9/17/2020,318,admission,entry,foster,,reunification
+9/17/2020,319,admission,entry,foster,,reunification
+9/25/2020,320,admission,entry,foster,,reunification
+9/26/2020,321,admission,entry,residential,,reunification
+9/29/2020,322,admission,entry,foster,,adoption
+12/10/2020,322,transition,dss request,foster,yes,adoption
+10/6/2020,323,admission,entry,foster,,reunification
+10/9/2020,324,admission,entry,foster,,adoption
+10/12/2020,325,admission,entry,foster,,adoption
+10/12/2020,326,admission,entry,residential,,reunification
+10/15/2020,327,admission,entry,foster,,reunification
+10/16/2020,328,admission,entry,foster,,reunification
+10/19/2020,329,admission,entry,foster,,reunification
+10/26/2020,330,admission,entry,foster,,reunification
+10/26/2020,331,admission,entry,residential,,adoption
+10/29/2020,332,admission,entry,foster,,reunification
+11/1/2020,333,admission,entry,foster,,adoption
+11/7/2020,334,admission,entry,residential,,adoption
+4/10/2021,334,transition,level down,foster,yes,adoption
+11/10/2020,335,admission,entry,foster,,reunification
+11/14/2020,336,admission,entry,foster,,reunification
+11/20/2020,337,admission,entry,foster,,reunification
+11/23/2020,338,admission,entry,residential,,reunification
+11/26/2020,339,admission,entry,foster,,reunification
+11/27/2020,340,admission,entry,foster,,adoption
+11/27/2020,341,admission,entry,foster,,reunification
+11/30/2020,342,admission,entry,residential,,adoption
+4/2/2021,342,transition,level down,foster,yes,adoption
+12/10/2020,343,admission,entry,foster,,reunification
+12/13/2020,344,admission,entry,foster,,reunification
+12/17/2020,345,admission,entry,residential,,reunification
+12/17/2020,346,admission,entry,foster,,reunification
+12/19/2020,347,admission,entry,foster,,reunification
+12/23/2020,348,admission,entry,foster,,reunification
+12/26/2020,349,admission,entry,foster,,adoption
+1/10/2021,349,transition,fp request,residential,no,adoption
+5/1/2021,349,transition,level down,foster,yes,adoption
+4/5/2020,352,admission,entry,residential,,adoption
+10/27/2019,353,admission,entry,residential,,adoption
+6/28/2020,354,admission,entry,residential,,adoption
+4/27/2020,355,admission,entry,residential,,adoption
+10/9/2020,356,admission,entry,residential,,adoption
+2/26/2020,357,admission,entry,foster,,guardianship
+11/6/2020,358,admission,entry,foster,,adoption
+10/12/2019,359,admission,entry,foster,,guardianship
+8/10/2020,359,transition,fp request,foster,yes,guardianship
+11/5/2019,360,admission,entry,ther. foster,,adoption
+12/22/2019,360,transition,fp request,ther. foster,no,adoption
+8/2/2020,361,admission,entry,residential,,fc 18-21
+11/20/2020,361,transition,level higher,residential,no,fc 18-21
+9/22/2020,362,admission,entry,residential,,fc 18-21
+1/11/2020,363,admission,entry,residential,,fc 18-21
+11/14/2020,363,transition,sibling reunification,residential,no,fc 18-21
+3/13/2020,364,admission,entry,residential,,adoption
+4/22/2019,365,admission,entry,residential,,adoption
+12/18/2020,366,admission,entry,foster,,guardianship
+4/5/2020,367,admission,entry,foster,,adoption
+5/11/2020,368,admission,entry,foster,,adoption
+5/14/2020,369,admission,entry,ther. foster,,adoption
+7/12/2020,369,transition,fp request,ther. foster,no,adoption
+12/10/2020,369,transition,fp request,ther. foster,no,adoption
+5/2/2020,369,transition,pre-adoptive ,ther. foster,yes,adoption
+11/20/2019,370,admission,entry,residential,,adoption
+12/13/2019,371,admission,entry,residential,,guardianship
+9/5/2019,372,admission,entry,residential,,guardianship
+2/22/2020,373,admission,entry,residential,,fc 18-21
+7/10/2020,373,transition,level higher,residential,no,fc 18-21
+9/8/2020,374,admission,entry,residential,,fc 18-21
+2/7/2020,375,admission,entry,foster,,adoption
+9/22/2020,376,admission,entry,foster,,guardianship
+11/14/2020,376,transition,fp request,foster,no,guardianship
+3/18/2021,376,transition,fp request,foster,no,guardianship
+6/25/2020,377,admission,entry,foster,,adoption
+11/18/2020,377,transition,pre-adoptive ,foster,yes,adoption
+7/31/2020,378,admission,entry,ther. foster,,adoption
+9/12/2020,379,admission,entry,residential,,adoption
+2/23/2020,380,admission,entry,residential,,adoption
+7/12/2020,380,transition,in-patient,residential,no,adoption
+6/24/2019,381,admission,entry,residential,,adoption
+2/19/2020,382,admission,entry,residential,,adoption
+7/8/2020,383,admission,entry,residential,,guardianship
+11/26/2020,384,admission,entry,foster,,guardianship
+2/20/2020,384,transition,dss request,foster,yes,guardianship
+4/24/2020,385,admission,entry,foster,,adoption
+7/10/2020,385,transition,fp request,foster,no,
+4/26/2020,386,admission,entry,foster,,adoption
+8/10/2020,386,transition,dss request,foster,yes,adoption
+7/19/2019,387,admission,entry,ther. foster,,adoption
+1/3/2020,388,admission,entry,residential,,fc 18-21
+9/19/2019,389,admission,entry,residential,,fc 18-21
+12/30/2020,389,transition,level higher,residential,no,fc 18-21
+5/25/2019,390,admission,entry,residential,,adoption
+8/14/2020,391,admission,entry,residential,,adoption
+6/30/2020,392,admission,entry,residential,,adoption
+7/17/2020,393,admission,entry,foster,,adoption
+6/19/2019,394,admission,entry,foster,,adoption
+11/30/2019,395,admission,entry,foster,,adoption
+8/9/2019,396,admission,entry,ther. foster,,adoption
+10/2/2019,396,transition,fp request,ther. foster,no,adoption
+3/26/2019,397,admission,entry,residential,,guardianship
+1/30/2020,398,admission,entry,residential,,guardianship
+6/12/2019,399,admission,entry,residential,,fc 18-21
+9/15/2020,399,transition,level higher,residential,no,fc 18-21
+10/28/2019,400,admission,entry,residential,,fc 18-21
+7/3/2019,401,admission,entry,residential,,fc 18-21
+10/14/2019,401,transition,dss request,foster,yes,guardianship
+11/27/2019,402,admission,entry,foster,,guardianship
+5/12/2020,402,transition,fp request,foster,no,guardianship
+8/4/2019,403,admission,entry,foster,,adoption
+1/15/2020,403,transition,pre-adoptive ,foster,yes,adoption
+4/9/2019,404,admission,entry,foster,,adoption
+4/18/2019,405,admission,entry,ther. foster,,adoption
+1/4/2020,406,admission,entry,residential,,adoption
+8/29/2019,407,admission,entry,residential,,adoption
+5/5/2019,408,admission,entry,residential,,adoption
+3/18/2020,409,admission,entry,residential,,guardianship
+8/27/2019,410,admission,entry,residential,,adoption
+5/16/2019,411,admission,entry,foster,,adoption
+9/28/2019,412,admission,entry,foster,,guardianship
+7/2/2019,413,admission,entry,foster,,adoption
+12/24/2019,414,admission,entry,ther. foster,,guardianship
+4/7/2020,415,admission,entry,residential,,fc 18-21
+1/14/2020,416,admission,entry,residential,,adoption
+2/1/2020,417,admission,entry,residential,,adoption
+7/1/2019,418,admission,entry,residential,,adoption
+3/17/2020,418,transition,level higher,residential,no,adoption
+4/3/2020,419,admission,entry,residential,,adoption
+6/1/2019,420,admission,entry,foster,,adoption
+4/14/2020,421,admission,entry,foster,,adoption
+8/9/2019,422,admission,entry,foster,,adoption
+12/10/2019,422,transition,fp request,residential,no,adoption
+4/8/2019,423,admission,entry,ther. foster,,guardianship
+5/20/2019,423,transition,fp request,ther. foster,no,guardianship
+10/4/2019,424,admission,entry,residential,,adoption
+7/25/2019,425,admission,entry,residential,,fc 18-21
+8/22/2019,426,admission,entry,residential,,fc 18-21
+11/8/2019,427,admission,entry,residential,,fc 18-21
+3/10/2020,427,transition,dss request,foster,yes,guardianship
+9/5/2019,428,admission,entry,residential,,fc 18-21
+7/23/2019,429,admission,entry,foster,,adoption
+3/24/2020,430,admission,entry,foster,,adoption
+7/2/2019,431,admission,entry,foster,,adoption
+4/30/2020,432,admission,entry,ther. foster,,adoption
+11/21/2019,433,admission,entry,residential,,adoption
+7/23/2020,434,admission,entry,residential,,adoption
+5/22/2020,435,admission,entry,residential,,guardianship
+11/3/2020,436,admission,entry,residential,,guardianship
+3/22/2020,437,admission,entry,residential,,fc 18-21
+12/1/2020,438,admission,entry,foster,,adoption
+11/6/2019,439,admission,entry,foster,,guardianship
+4/17/2020,439,transition,fp request,foster,no,guardianship
+11/30/2019,440,admission,entry,foster,,guardianship
+6/10/2020,440,transition,dss request,foster,yes,guardianship
+8/27/2020,441,admission,entry,ther. foster,,adoption
+10/11/2020,441,transition,fp request,ther. foster,no,adoption
+10/17/2020,442,admission,entry,residential,,adoption
+3/10/2021,442,transition,pre-adoptive ,foster,yes,adoption
+2/5/2020,443,admission,entry,residential,,adoption
+4/7/2020,444,admission,entry,residential,,adoption
+5/17/2019,445,admission,entry,residential,,adoption
+1/12/2020,446,admission,entry,residential,,adoption
+4/30/2020,447,admission,entry,foster,,adoption
+6/5/2020,448,admission,entry,foster,,adoption
+6/8/2020,449,admission,entry,foster,,adoption
+12/5/2020,449,transition,dss request,foster,yes,adoption
+12/15/2019,450,admission,entry,ther. foster,,adoption
+1/7/2020,451,admission,entry,residential,,fc 18-21
+9/30/2019,452,admission,entry,residential,,fc 18-21
+ ,,,,,,
