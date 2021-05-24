@@ -17,10 +17,13 @@ email: "wes@telosanalytics.org"
 highlight_name: false
 interests:
 - Program Evaluation
+
 - Causal Inference
+
 - Child Welfare
+
 - Machine learning 
-- Specific topics- Relationship between automated machine learning and equity frameworks for program design and evaluation; conditional average treatment effects in non-profit program evaluation 
+ 
 
 organizations:
 - name: Diana R. Garland School of Social Work at Baylor University
