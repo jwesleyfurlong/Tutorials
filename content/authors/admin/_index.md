@@ -16,8 +16,9 @@ highlight_name: no
 interests:
 - Program Evaluation
 - Causal Inference
-- Child Welfare
 - Machine learning
+- Child Welfare
+
 organizations:
 - name: Diana R. Garland School of Social Work at Baylor University
   url: https://www.baylor.edu/social_work/
