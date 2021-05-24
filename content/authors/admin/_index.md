@@ -8,9 +8,7 @@ education:
   - course: MSW in Social Work with concentration in Biostatistics
     institution: Temple University
     year: 2018
-  - course: MTS Theological Studies
-    institution: Emory University
-    year: 2004
+  
 email: wes@telosanalytics.org
 highlight_name: no
 interests:
