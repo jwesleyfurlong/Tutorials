@@ -1,6 +1,5 @@
 ---
-bio: Founder and managing director of Telos Analytics, a data and analytics firm for the social sector. 
-
+title: "Wesley Furlong"
 education:
   courses:
   - course: PhD candidate in Social Work
@@ -10,21 +9,15 @@ education:
     institution: Temple University
     year: 2018
   - course: MTS Theological Studies
-    institution: Emory University 
+    institution: Emory University
     year: 2004
-    
-email: "wes@telosanalytics.org"
-highlight_name: false
+email: wes@telosanalytics.org
+highlight_name: no
 interests:
 - Program Evaluation
-
 - Causal Inference
-
 - Child Welfare
-
-- Machine learning 
- 
-
+- Machine learning
 organizations:
 - name: Diana R. Garland School of Social Work at Baylor University
   url: https://www.baylor.edu/social_work/
@@ -34,7 +27,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
@@ -48,8 +41,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wesfurlong/
-superuser: true
-title: Wesley Furlong
+superuser: yes
+bio: Founder and managing director of Telos Analytics, a data and analytics firm for
+  the social sector.
 ---
 
 I am the founder and managing director of Telos Analytics, a data and analytics firm for the social sector. The goal of this site is to provide resources and support for social workers responsible for data in their agencies. Tutorials, blogs, and course resources cover many aspects of data, statistical, and spatial analysis using R, Power BI, and ArcGIS. Occasional posts about foster care, Newfoundland dogs or rock climbing are also known to appear at times. I enjoy working with agencies to leverage their data to improve decision-making and hope this site provides practical and accessible support for internal program evaluation.   
