@@ -16,7 +16,7 @@ links:
 projects:
 - internal-project
 publication: In *Journal of Community Psychology*
-publication_short: In *STC*
+publication_short: In *JCP*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
