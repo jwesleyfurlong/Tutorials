@@ -1,23 +1,16 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
-address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+abstract: A pilot study in Mason, OH. to measure human and community flourishing with primary and secondary data. Data is available on a census tract level and presented via dashboard (Power BI) with map layers created with ArcGIS. The survey is based on Harvard's Institute of Human Flourishing individual and community surveys. Secondary data includes the social vulnerability index, child opportunity index, life expectancy and mortality rates by age group on a tract level. 
+
+
 all_day: false
-authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+authors: Wesley Furlong
+date: "2021-02-01"
+
 event: Wowchemy Conference
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pOXHU0UEDcg)'
   focal_point: Right
 links:
 - icon: twitter
@@ -29,9 +22,9 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Pilot study to measure human and community flourishing in Mason, OH. with survey and secondary data on a census tract level.
 tags: []
-title: Example Talk
+title: Measuring Human Flourishing in Mason, OH.: A Mixed Methods Study
 url_code: ""
 url_pdf: ""
 url_slides: ""
