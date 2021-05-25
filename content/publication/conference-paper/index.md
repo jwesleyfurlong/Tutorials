@@ -1,15 +1,9 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A pilot study in Mason, OH. to measure human and community flourishing with primary and secondary data. Data is available on a census tract level and presented via dashboard (Power BI) with map layers created with ArcGIS. The survey is based on Harvard's Institute of Human Flourishing individual and community surveys. Secondary data includes the social vulnerability index, child opportunity index, life expectancy and mortality rates by age group on a tract level.
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Wesley Furlong
+
+date: "2021-03-01"
 doi: ""
 featured: true
 image:
@@ -27,11 +21,10 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Pilot study to measure human and community flourishing in Mason, OH. with survey and secondary data on a census tract level.
 tags:
 - Source Themes
-title: An example conference paper
+title: Measuring Human Flourishing in Mason, OH.: A Mixed Methods Study
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
