@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/wesfurlong
 location: Wowchemy HQ
 projects:
 - internal-project
