@@ -21,7 +21,6 @@ There are multiple R packages you can use for exploratory data analysis. In this
 
 ![](index.en_files/smart_EDA.png)
 
-![](images/smart_EDA.png)
 
 Let's load 5 csv files with child welfare program data from github:
 
