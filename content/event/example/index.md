@@ -22,7 +22,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Pilot study to measure human and community flourishing in Mason, OH. with survey and secondary data on a census tract level.
+summary: A pilot study on human and community flourishing. 
 title: Measuring Human Flourishing in Mason, OH.: A Mixed Methods Study
 url_code: ""
 url_pdf: ""
