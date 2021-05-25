@@ -15,7 +15,7 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: In *Source Themes Conference*
+publication: In *Journal of Community Psychology*
 publication_short: In *STC*
 publication_types:
 - "1"
