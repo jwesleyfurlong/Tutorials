@@ -1,0 +1,77 @@
+---
+title: 'Program Evaluation in R: Preprocessing Data'
+author: "Wes Furlong"
+date: "5/24/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Let's load 5 csv files with child welfare program data from github:
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+clients <- read_csv("https://raw.githubusercontent.com/jwesleyfurlong/Tutorials/main/pe_data_clients.csv")
+
+clinical <-  read_csv("https://raw.githubusercontent.com/jwesleyfurlong/Tutorials/main/pe_data_clinical.csv")
+
+discharges <-  read_csv("https://raw.githubusercontent.com/jwesleyfurlong/Tutorials/main/pe_data_discharges.csv")
+
+permanency <-  read_csv("https://raw.githubusercontent.com/jwesleyfurlong/Tutorials/main/pe_data_permanency.csv")
+
+reports <- read_csv( "https://raw.githubusercontent.com/jwesleyfurlong/Tutorials/main/pe_data_discharges.csv")
+
+```
+
+There are multiple packages you can use for exploratory data analysis. We will introduce four here: DataExplorer, SmartEDA, Skimr, and Hmisc. Let's start with DataExplorer.
+
+```{r, warning=FALSE, message=FALSE}
+ 
+library(DataExplorer)
+
+plot_str(clients)
+plot_missing(clients)
+plot_histogram(clinical) # numeric data 
+plot_bar(permanency) # categorical data
+
+# Works with pipe operator 
+
+clinical %>% 
+  drop_na(is.numeric) %>%
+  select(- client_id) %>% 
+  plot_correlation(clinical, type = 'continuous') 
+
+
+
+#create_report(discharges)
+```
+
+SmartEDA: An R package for automated exploratory data analysis
+
+![](Program-Evaluation-EDA_files/smart_eda.png)
+
+One strength of smartEDA is the naming convention of the functions. To quickly inspect your data, you can use:
+
+'Exp' (explore), the data type ('Cat' or 'Num'), and the output type ('Stat' or 'Viz'). Categorical data also has a table function. The functions can also be [customized extensively](https://arxiv.org/pdf/1903.04754.pdf).
+
+```{r, warning=FALSE, message=FALSE}
+
+library(SmartEDA)
+
+ExpData(clinical)
+
+ExpCTable(clinical)
+
+ExpCatViz(clinical)
+
+```
+
+We can also check for the strength of association with a target variable. Let's examine the association with ACE scores:
+
+```{r, warning=FALSE, message=FALSE}
+
+ExpCatStat(clinical, Target = "ace_score", result = "Stat", Pclass = "Yes")
+```
