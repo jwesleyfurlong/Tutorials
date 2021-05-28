@@ -127,9 +127,9 @@ comments:
   commentable:
     post: true
     book: true
-    project: true
+    project: false
     publication: true
-    event: true
+    event: false
   disqus:
     shortname: ''
     show_count: true
