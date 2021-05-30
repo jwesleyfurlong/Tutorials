@@ -1,5 +1,5 @@
 ---
-title: Wesley Furlong
+title: 'Wesley Furlong'
 education:
   courses:
   - course: PhD candidate in Social Work
