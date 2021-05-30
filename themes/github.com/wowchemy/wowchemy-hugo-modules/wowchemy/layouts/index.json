@@ -33,9 +33,9 @@
         {{- $permalink = .Permalink -}}
         {{- $rel_permalink = .RelPermalink -}}
       {{- end -}}
-    {{- else -}}
+  #  {{- else -}}
       {{/* Include a user's display name rather than username where possible. */}}
-      {{- if .Params.authors -}}
+      {{/*- if .Params.authors -}}
         {{- $authorLen := len .Params.authors -}}
         {{- if gt $authorLen 0 -}}
           {{- $authors = slice -}}
